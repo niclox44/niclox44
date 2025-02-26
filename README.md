@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Nicolás Andicoberry Lopez
+- 👋 Hi, I’m Carlos Nicolás Andicoberry López
 - 👀 I’m interested in Software Developing.
 - 🌱 I’m currently learning javascript, html, css and most kind of technology based in DB such as mySQL.
 - 💞️ I’m looking to collaborate on any kind of proyect relationated with software.
