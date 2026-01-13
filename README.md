@@ -40,8 +40,3 @@ Focused on building solid technical foundations through academic projects and ha
 - 💼 LinkedIn: [Nicolas Andicoberry López](https://www.linkedin.com/in/nicolas-andicoberry-l%C3%B3pez-b2a874324/)
 
 ---
-
-## 📊 GitHub Stats
-
-![Carlos Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=niclox44&show_icons=true&cache_seconds=86400)
-
