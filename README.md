@@ -43,4 +43,4 @@ Focused on building solid technical foundations through academic projects and ha
 
 ## 📊 GitHub Stats
 
-![Carlos Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=niclox44E&show_icons=true&theme=default)
+![Carlos Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=niclox44&show_icons=true&theme=default)
